@@ -93,7 +93,7 @@ minimap_intro_file = "misc/radar"
 files =
   "misc/overlays.spec",
   "RoundSquare/citybar.spec", 
-  "RoundSquare/yields.spec",
+  ;  "RoundSquare/yields.spec",
   ;  "RoundSquare/yields_f.spec",	;Optional Full-Food yield graphics.  Uncomment to activate. 
   "RoundSquare/tiles.spec",
   ;earth?
