@@ -29,5 +29,6 @@ tiles = { "row", "column", "tag"
   0,  4, "u.srcaravel"  		;unknown + Hans_Lemurson
   
   1,  0, "u.tribal_worker"		;Trident + Hans_Lemurson
+  1,  1, "u.swordsmen"  ; Trident + Pranav
 }
 
